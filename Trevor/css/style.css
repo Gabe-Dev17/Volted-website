@@ -21,6 +21,7 @@ html {
 
 body {
   background: #000000;
+  background-image: "unnamed.jpg";
   font-size: 18px;
   font-family: "Abel", sans-serif;
   line-height: 1.8;
@@ -87,8 +88,8 @@ a:hover, a:focus {
 }
 
 .probootstrap-header {
-  padding-top: 100px;
-  padding-bottom: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
   width: 100%;
   z-index: 12;
   position: relative;
@@ -202,7 +203,7 @@ a:hover, a:focus {
 
 .probootstrap-mobile-menu-active .probootstrap-main-nav {
   float: left;
-  margin-top: 40px;
+  margin-top: 10px;
   width: 100%;
 }
 
@@ -521,8 +522,8 @@ a:hover, a:focus {
 }
 
 .probootstrap-section > .container.probootstrap-border-top {
-  padding-top: 50px;
-  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  padding-top: 1px;
+  
 }
 
 .probootstrap-section.probootstrap-section-colored, .probootstrap-section.probootstrap-section-dark {
