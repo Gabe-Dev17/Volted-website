@@ -6,3 +6,21 @@
   margin-top: 250px;
   margin-bottom: 250px;
 }
+
+.centerspotify{
+
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-20%, -20%)
+}
+
+#follower{
+ position: absolute;
+  top: 30%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(60%, 60%)
+
+}
