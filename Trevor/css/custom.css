@@ -1,1 +1,8 @@
 /* Your custom css code goes here */
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 250px;
+  margin-bottom: 250px;
+}
