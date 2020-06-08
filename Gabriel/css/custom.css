@@ -1,7 +1,8 @@
 /* Your custom css code goes here */
-.paragraph{
-    text-align: center;
-    color: red;
-    font-size: 100px;
-    font-weight: bolder;
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 250px;
+  margin-bottom: 250px;
 }
