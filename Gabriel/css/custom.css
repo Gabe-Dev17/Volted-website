@@ -41,8 +41,8 @@
   display: grid;
   grid-template-columns: 40% 26% 33%;
   gap: 10px;
-  margin-top: 0px;
-  margin-bottom: 0px;
+  margin-top: 0;
+  margin-bottom: 0;
   margin-left: 20px;
   margin-right: 20px;  
   
